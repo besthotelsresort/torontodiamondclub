@@ -1,0 +1,2 @@
+# torontodiamondclub
+Static site: torontodiamondclub
